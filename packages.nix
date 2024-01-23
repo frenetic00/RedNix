@@ -160,7 +160,7 @@
       xh
       python3
       firefox-bin
-      exa
+      #exa
       bat
       fd
       procs
